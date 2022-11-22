@@ -1,0 +1,92 @@
+.checkbox-sign-icon-area {
+    background: #FF0000;  
+    }
+
+    .singnature-resquest-signed-msg-area.fiald-text-color h2 {
+     color: #FF0000;  
+    }
+
+
+.green-box-info {
+    background-color: #F6F7FF;
+    width: 60%;
+    margin: 19px 0px 28px 0px;
+    border-radius: 30px;
+    /* text-align: center; */
+    padding: 23px 10px 10px 10px;
+
+}
+
+.content-info-ares h3 {
+    font-size: 19px;
+    color: #0e0e0e;
+    font-weight: 600;
+    padding-left: 3px;
+    margin: -17px 0px 5px 0px;
+}
+
+.content-info-ares ul {
+    padding-left: 7px;
+}
+
+
+.content-info-ares ul li {
+    list-style: none;
+    color: #000;
+    font-weight: 400;
+    line-height: 20px;
+    font-size: 13px;
+}
+
+.content-info-ares ul li span {
+    font-weight: 600;
+}
+
+
+.content-info-ares ul li span {
+    font-weight: 600;
+    display: inline-block;
+    margin-right: 11px;
+}
+
+.vamo-lang-change-btn ul {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+text-align: right; 
+}
+
+
+.vamo-lang-change-btn ul li {
+display: inline-block;
+margin: 20px 10px 0px 0px;
+font-size: 16px;
+font-weight: 600; 
+}
+
+.vamo-lang-change-btn ul li .active-lang {
+ color:#FF5C93; 
+} 
+
+
+.content-info-ares ol li {
+    list-style: disc;
+}
+
+.green-box-info table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    border: 1px solid #ebebeb;
+    width: 100%;
+    margin-top: 11px
+   
+}
+
+.green-box-info table ,tr, td{
+  border: 1px solid #ebebeb;
+  padding: 10px;
+}
+
+.green-box-info tbody, td, tfoot, th, thead, tr{
+padding: 7px;
+    text-align: center;
+    text-transform: capitalize;}
